@@ -1,7 +1,7 @@
-## Демо
+# Проект "Etsy Listing"
 
-[Посмотреть сайт онлайн](https://AlinaShamina.github.io/etsy-listing/)
+[![Live сайт](https://img.shields.io/badge/Live-сайт-brightgreen)](https://AlinaShamina.github.io/etsy-listing/)
 
-## Статус проекта
+##  Прямая ссылка на сайт
 
-![GitHub Pages](https://img.shields.io/badge/deployed-green)
+ [https://AlinaShamina.github.io/etsy-listing/](https://AlinaShamina.github.io/etsy-listing/) — здесь опубликован твой проект.
