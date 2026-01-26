@@ -4,4 +4,4 @@
 
 ##  Прямая ссылка на сайт
 
- [https://AlinaShamina.github.io/etsy-listing/](https://AlinaShamina.github.io/etsy-listing/) — здесь опубликован твой проект.
+ [https://AlinaShamina.github.io/etsy-listing/](https://AlinaShamina.github.io/etsy-listing/)
